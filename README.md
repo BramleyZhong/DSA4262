@@ -18,7 +18,6 @@
 ### Installation guidelines
 
 
-
 ### Excecution guidelines
 #### Data_parsing_train.R, Data_parsing_test.R
 - Input: data.json (for training), data.info (for training), datasetX.json (for testing)
