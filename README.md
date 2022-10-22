@@ -8,9 +8,9 @@
 - xgboost
 - jsonlite
 - gtools
-- caret
 - pROC
 - ROSE
+- caret
 
 
 
