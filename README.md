@@ -1,11 +1,9 @@
-# DSA4262-Proj-genenius
+# DSA4262-Proj-genenius Readme
 
-# Readme
-
-# Required software
+## Required software
 - R, version 4.2.1
 
-# Required packages
+## Required packages
 - tidyverse
 - xgboost
 - pROC
