@@ -5,11 +5,15 @@
 
 ### Required packages
 - tidyverse
+- jsonlite
 - xgboost
+- gtools
+- caret
 - pROC
 - ROSE
-- gtools
-- jsonlite
+
+
+
 
 ### Installation guidelines
 
