@@ -2,6 +2,7 @@
 
 ### Required software
 - R, version 4.2.1
+- RStudio (Optional)
 
 ### Required packages
 - tidyverse
