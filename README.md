@@ -5,8 +5,8 @@
 
 ### Required packages
 - tidyverse
-- jsonlite
 - xgboost
+- jsonlite
 - gtools
 - caret
 - pROC
