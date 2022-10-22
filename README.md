@@ -27,7 +27,7 @@
 - Long excecution time is expected, please use larger instances to avoid memory issue and save running time
 - Details can be found in the comments in Data_parsing_train.R and Data_parsing_test.R
 
-#### Models.R
+#### Models_xgboost.R
 - Include data engineering, model training and predicting
 - Use train_data.csv as training data, use test_data.csv for prediction
 - Output final csv file for submission 
