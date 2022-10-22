@@ -1,2 +1,12 @@
 # DSA4262-Proj-genenius
-Repo for DSA4262 Projcet2
+
+# Readme
+
+# Required software
+- R, version 4.2.1
+
+# Required packages
+- tidyverse
+- xgboost
+- pROC
+- ROSE
