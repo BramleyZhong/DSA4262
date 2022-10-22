@@ -19,7 +19,7 @@
 
 
 ### Excecution guidelines
-#### Data_parsing_train.R, Data_parsing_test.R
+#### Data_parsing_train.R & Data_parsing_test.R
 - Input: data.json (for training), data.info (for training), datasetX.json (for testing)
 - Output: train_data.csv, test_data.csv
 - Parse raw data (json) into dataframe in R for convinient use
