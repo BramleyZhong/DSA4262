@@ -14,13 +14,11 @@
 - caret
 
 
-
-
-### Installation guidelines
-......
-......
-
 ### Excecution guidelines
+For other groups to validate, pls download _dataset3_parsed.csv_ as sample input data, _xgboost_final.rda_ as pre-trained model, and _prediction.R_ and put the three files into the same working directory. The _prediction.R_ will read in _dataset3_parsed.csv_ and _xgboost_final.rda_ to generate prediction and export csv file. 
+
+
+### Files description
 #### Data_parsing_train.R & Data_parsing_test.R
 - Input: data.json (for training), data.info (for training), datasetX.json (for testing)
 - Output: train_data.csv, test_data.csv
