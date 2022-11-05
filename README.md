@@ -14,6 +14,8 @@
 - caret
 
 ### Excecution guidelines
+- All the processes can be excuted on local PC (recommended), or on AWS machine, which may need to fetch files from this repository to save in the AWS machine.
+
 - For other groups to validate, please download _dataset3_parsed.csv_ as sample input data, _xgboost_final.rda_ as pre-trained model, and _prediction.R_ and put the three files into the same working directory. The _prediction.R_ will read in _dataset3_parsed.csv_ and _xgboost_final.rda_ to generate prediction and export csv file.  
 
 - For full process usage, please download _data_parsing_train.R_ and _data_parsing_test.R_ to parse json data into training and test data, _Models_xgboost.R_ and releavaent raw json data. Please use _data_parsing_train.R_ and _data_parsing_test.R_ to parse json data into training data first. The _Models_xgboost.R_ contains xgboost model with optimised parameters after parameter tuning, and will take in parsed training data and teat data and use xgboost model to generate pridictions.  
